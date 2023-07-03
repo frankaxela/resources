@@ -8,12 +8,6 @@ List of relevant articles related to engineer management
 * [Things I've learned transitioning from engineer to engineering manager](https://blog.pragmaticengineer.com/things-ive-learned-transitioning-from-engineer-to-engineering-manager/)
 * [A Checklist For First-Time Engineering Managers](https://blog.pragmaticengineer.com/checklist-for-first-time-managers/)
 
-## On Leadership
-
-* [What Leaders Really Do](https://hbr.org/2001/12/what-leaders-really-do?tpcc=orgsocial_edit)
-* [Leading Through Multiple Reorgs](https://suzansfieldnotes.substack.com/p/leading-through-multiple-reorgs)
-* [A Small Business Guide to Servant Leadership](https://www.fool.com/the-ascent/small-business/human-resources/articles/servant-leadership/)
-
 ## On Conflict
 
 * [How to Resolve Conflict and Boost Collaboration](https://gustavorazzetti.substack.com/p/break-free-from-team-drama-how-to)
@@ -33,3 +27,7 @@ List of relevant articles related to engineer management
 ## On Hybrid Workmode
 
 * [5 Ways to Become an Effective Hybrid Workplace Leader](https://trainingindustry.com/articles/leadership/5-ways-to-become-an-effective-hybrid-workplace-leader/)
+
+## On Meetings
+
+* [The Secret to a Good Meeting? Preparation](https://hbr.org/2023/06/the-secret-to-a-good-meeting-preparation?ab=ascendhero-article-1)
